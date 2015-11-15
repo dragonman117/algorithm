@@ -1,0 +1,12 @@
+/* Setup Css */
+.nav-offset{
+    margin-top: 50px;
+}
+
+/* General Classes */
+.row.underline{
+    border-bottom: 1px solid #8c8c8c;
+}
+.border-right{
+    border-right: 1px solid #8c8c8c;
+}
